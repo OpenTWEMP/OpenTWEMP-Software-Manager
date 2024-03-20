@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWEMP.SoftwareManager.App.Console", "TWEMP.SoftwareManager.App.Console\TWEMP.SoftwareManager.App.Console.csproj", "{CAC51417-3C99-419D-A29B-C39C0718BE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWEMP.SoftwareManager.Core.CommonLibrary", "TWEMP.SoftwareManager.Core.CommonLibrary\TWEMP.SoftwareManager.Core.CommonLibrary.csproj", "{3C50635B-EE4E-458A-92EB-78790A0F8085}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWEMP.SoftwareManager.Core.CommonLibrary", "TWEMP.SoftwareManager.Core.CommonLibrary\TWEMP.SoftwareManager.Core.CommonLibrary.csproj", "{3C50635B-EE4E-458A-92EB-78790A0F8085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWEMP.SoftwareManager.QA.UnitTesting", "TWEMP.SoftwareManager.QA.UnitTesting\TWEMP.SoftwareManager.QA.UnitTesting.csproj", "{8AFF006C-B03E-42D1-9A6B-DBD2DA1EFDF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWEMP.SoftwareManager.QA.UnitTesting", "TWEMP.SoftwareManager.QA.UnitTesting\TWEMP.SoftwareManager.QA.UnitTesting.csproj", "{8AFF006C-B03E-42D1-9A6B-DBD2DA1EFDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWEMP.SoftwareManager.App.WinForms", "TWEMP.SoftwareManager.App.WinForms\TWEMP.SoftwareManager.App.WinForms.csproj", "{E4E3B0DC-A36E-45E0-9A44-4FF5DA90F0CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8AFF006C-B03E-42D1-9A6B-DBD2DA1EFDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFF006C-B03E-42D1-9A6B-DBD2DA1EFDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFF006C-B03E-42D1-9A6B-DBD2DA1EFDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E3B0DC-A36E-45E0-9A44-4FF5DA90F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E3B0DC-A36E-45E0-9A44-4FF5DA90F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E3B0DC-A36E-45E0-9A44-4FF5DA90F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E3B0DC-A36E-45E0-9A44-4FF5DA90F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
