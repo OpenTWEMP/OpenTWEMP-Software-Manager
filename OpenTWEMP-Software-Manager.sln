@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWEMP.SoftwareManager.ConsoleClient", "TWEMP.SoftwareManager.ConsoleClient\TWEMP.SoftwareManager.ConsoleClient.csproj", "{CAC51417-3C99-419D-A29B-C39C0718BE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWEMP.SoftwareManager.App.Console", "TWEMP.SoftwareManager.App.Console\TWEMP.SoftwareManager.App.Console.csproj", "{CAC51417-3C99-419D-A29B-C39C0718BE2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWEMP.SoftwareManager.Core.CommonLibrary", "TWEMP.SoftwareManager.Core.CommonLibrary\TWEMP.SoftwareManager.Core.CommonLibrary.csproj", "{3C50635B-EE4E-458A-92EB-78790A0F8085}"
 EndProject
