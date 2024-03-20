@@ -11,3 +11,13 @@ This repository is intended to develop utilities for management of OpenTWEMP sof
 - Configure the current OpenTWEMP software environment;
 
 - Uninstall already installed OpenTWEMP software components;
+
+This repository contains the following software components:
+
+- TWEMP.SoftwareManager.App.Console
+
+- TWEMP.SoftwareManager.App.WinForms
+
+- TWEMP.SoftwareManager.Core.CommonLibrary
+
+- TWEMP.SoftwareManager.QA.UnitTesting
